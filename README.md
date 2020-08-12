@@ -1,10 +1,10 @@
 # Nodemailer plugin to sign mail using S/MIME
 
-[![Build Status](https://travis-ci.org/gazoakley/nodemailer-smime.svg?branch=master)](https://travis-ci.org/gazoakley/nodemailer-smime)
-[![Coverage Status](https://coveralls.io/repos/github/gazoakley/nodemailer-smime/badge.svg?branch=master)](https://coveralls.io/github/gazoakley/nodemailer-smime?branch=master)
-[![Greenkeeper badge](https://badges.greenkeeper.io/gazoakley/nodemailer-smime.svg)](https://greenkeeper.io/)
-[![dependencies Status](https://david-dm.org/gazoakley/nodemailer-smime/status.svg)](https://david-dm.org/gazoakley/nodemailer-smime)
-[![devDependencies Status](https://david-dm.org/gazoakley/nodemailer-smime/dev-status.svg)](https://david-dm.org/gazoakley/nodemailer-smime?type=dev)
+[![Build Status](https://travis-ci.org/magicmarvman/nodemailer-smime.svg?branch=master)](https://travis-ci.org/magicmarvman/nodemailer-smime)
+[![Coverage Status](https://coveralls.io/repos/github/magicmarvman/nodemailer-smime/badge.svg?branch=master)](https://coveralls.io/github/magicmarvman/nodemailer-smime?branch=master)
+[![Greenkeeper badge](https://badges.greenkeeper.io/magicmarvman/nodemailer-smime.svg)](https://greenkeeper.io/)
+[![dependencies Status](https://david-dm.org/magicmarvman/nodemailer-smime/status.svg)](https://david-dm.org/magicmarvman/nodemailer-smime)
+[![devDependencies Status](https://david-dm.org/magicmarvman/nodemailer-smime/dev-status.svg)](https://david-dm.org/magicmarvman/nodemailer-smime?type=dev)
 
 This plugin signs mail using an S/MIME certificate. Many mail agents are able to decode these in order to prove the identity of the sender.
 
